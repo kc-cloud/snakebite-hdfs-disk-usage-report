@@ -10,6 +10,6 @@ Utility script to generate hdfs disk usage report using Snakebite. Snakebite is 
 	
 _python hdfs-disk-usage-report.py --file report.csv --size-limit 1 --levels 5_
 	
-* --file <name_of_the_file_to_store_report.csv>
-* --size-limit <drill down the folders with more than this size limit>
-* --level <number of levels of folders to be drilled down> 
+* --file - name of csv file to store the report to 
+* --size-limit  - drill down the folders with more than this size limit
+* --level - number of levels of folders to be drilled down 
