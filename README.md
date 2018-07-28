@@ -4,7 +4,7 @@ Utility script to generate hdfs disk usage report using Snakebite. Snakebite is 
 
 
 ## Prerequisite
- * snakebite
+ * snakebite - https://github.com/spotify/snakebite
 
 ## usage
 	
